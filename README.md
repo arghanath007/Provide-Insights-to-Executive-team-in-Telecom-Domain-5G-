@@ -5,7 +5,7 @@
 * Challenge Link -> https://codebasics.io/event/codebasics-resume-project-challenge
 * Codebasics -> https://www.youtube.com/c/codebasics
 * YouTube Video Link -> https://www.youtube.com/watch?v=0Bto2pTr7VE
-* Linkedin post -> 
+* Linkedin post -> https://www.linkedin.com/posts/argha-nath-1a1b29192_dataanalysis-powerbi-visualization-activity-7010308121831124992-a1EO/
 * My Linkedin profile -> https://www.linkedin.com/in/argha-nath-1a1b29192/
 * Interactive Dashboard Link -> https://www.novypro.com/project/provide-insights-to-executive-team-in-telecom-domain
 
