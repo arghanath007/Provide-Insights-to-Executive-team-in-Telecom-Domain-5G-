@@ -23,5 +23,8 @@
 
 ## Submission Certificate
 
-* Download Link -> Not yet given
+* Download Link -> [CH-1-6-22515_Resume_challenge_3.pdf](https://github.com/arghanath007/Provide-Insights-to-Executive-team-in-Telecom-Domain-5G-/files/10336891/CH-1-6-22515_Resume_challenge_3.pdf)
+
+![CH-1-6-22515_Resume_challenge_3](https://user-images.githubusercontent.com/54589605/210366662-9b0db3ce-2113-4987-85ad-f6f718a3ba92.jpg)
+
 
